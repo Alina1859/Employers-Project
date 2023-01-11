@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Employers-Project/static/css/main.a8a10f8e.css",
+    "main.js": "/Employers-Project/static/js/main.9596285e.js",
+    "index.html": "/Employers-Project/index.html",
+    "main.a8a10f8e.css.map": "/Employers-Project/static/css/main.a8a10f8e.css.map",
+    "main.9596285e.js.map": "/Employers-Project/static/js/main.9596285e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a10f8e.css",
+    "static/js/main.9596285e.js"
+  ]
+}
