@@ -9,4 +9,4 @@
 * JSX
 * React
 
-[ССЫЛКА] (alina1859.github.io)
+[ССЫЛКА] (https://Alina1859.github.io/Employers-Project)
